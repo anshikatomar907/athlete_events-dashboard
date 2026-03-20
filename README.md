@@ -26,4 +26,4 @@ FEATURES:-
 
 SCREENSHOTS/DEMOS:-
 show what the dashboard looks like.
-Example:
+Example:https://github.com/anshikatomar907/athlete_events-dashboard/blob/main/snapshot%20of%20olympics%20%20athlete%20analysis.png
